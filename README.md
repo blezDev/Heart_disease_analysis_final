@@ -1,2 +1,2 @@
 # Algorithm-on-Heart-Dataset
-Here, I have used the heart dataset and applied the algorithms to predict the output
+Here, I have used the heart dataset and applied various algorithms to predict the output
